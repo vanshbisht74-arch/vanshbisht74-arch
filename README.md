@@ -20,8 +20,9 @@ Email Me 👉 ✉️vanshbisht74@gmail.com For Collaboration/Project or Anything
 ![](https://nirzak-streak-stats.vercel.app/?user=vanshbisht74-arch&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshbisht74-arch&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vanshbisht74-arch&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 📜 Certificates
+
+[![Completion Certificate](https://img.shields.io/badge/View-Certificate-blue?style=for-the-badge)](./E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_69b98e6b5e26c409f8bd2c11_1773772002490_completion_certificate.pdf)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
