@@ -21,11 +21,11 @@ Email Me 👉 ✉️vanshbisht74@gmail.com For Collaboration/Project or Anything
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshbisht74-arch&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ## 📜 Certificates
 
-- 🏆 Certificate 1  
-  [View Certificate](./E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_69b98e6b5e26c409f8bd2c11_1773772002490_completion_certificate.pdf)
+[![Certificate 1](https://img.shields.io/badge/View-Certificate_1-blue?style=for-the-badge)](./E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_69b98e6b5e26c409f8bd2c11_1773772002490_completion_certificate.pdf)
 
-- 🏆 Certificate 2  
-  [View Certificate](./ETGMhLB5eCrYjcH8o_MBA4MnZTNFEoJZGnk_69b98e6b5e26c409f8bd2c11_1773771401851_completion_certificate.pdf)
+[![Certificate 2](https://img.shields.io/badge/View-Certificate_2-green?style=for-the-badge)](./ETGMhLB5eCrYjcH8o_MBA4MnZTNFEoJZGnk_69b98e6b5e26c409f8bd2c11_1773771401851_completion_certificate.pdf)
+
+[![Certificate 3](https://img.shields.io/badge/View-Certificate_3-orange?style=for-the-badge)](./WmDnBzkLZFR9Rcjqa_tMjbs76F526fF5v3G_69b98e6b5e26c409f8bd2c11_1773773984774_completion_certificate.pdf)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
