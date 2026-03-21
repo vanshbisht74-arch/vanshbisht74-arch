@@ -118,19 +118,16 @@
 
 ---
 
-## 🔝 Top Contributions
+## 🧠 Problem Solving Platforms
+
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=vanshbisht74-arch&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+  <a href="https://leetcode.com/your-username">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/your-username">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
 </p>
-
----
-
-## 👀 Profile Views
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=vanshbisht74-arch&icon=5&color=12"/>
-</p>
-
----
 
 ## 🎯 Fun Animation
 <p align="center">
