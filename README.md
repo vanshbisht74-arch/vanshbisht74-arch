@@ -90,11 +90,10 @@
 ---
 
 ## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vanshbisht74-arch&theme=radical&no-frame=true&margin-w=10" />
-</p>
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vanshbisht74-arch&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=4"/>
+</p>
 
 ## 📜 Certificates
 <p align="center">
