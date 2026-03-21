@@ -3,7 +3,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Cool+Projects+🚀;Exploring+SQL+📊;Improving+DSA+Skills+🔥;Future+Software+Engineer+💻;Open+to+Collaboration+🤝" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Cool+Projects+🚀;Exploring+SQL+📊;Improving+DSA+Skills+🔥;Open+to+Collaboration+🤝" />
 </p>
 
 <!-- Animated Line -->
@@ -16,7 +16,7 @@
 ## 🧑‍💻 About Me
 - 🎯 Currently improving **DSA & SQL**
 - 💡 Love building real-world projects
-- 🚀 Goal: Become a top Software Engineer
+- 🚀 Goal: Become a skilled Software Developer
 - 📫 Email: **vanshbisht74@gmail.com**
 
 ---
@@ -32,6 +32,23 @@
   <a href="mailto:vanshbisht74@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+
+---
+
+## 🧠 Problem Solving Platforms
+<p align="center">
+  <a href="https://leetcode.com/your-username">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/your-username">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  🚀 Solving DSA problems daily <br>
+  📈 Improving logic & problem-solving skills
 </p>
 
 ---
@@ -77,6 +94,13 @@
 
 ---
 
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vanshbisht74-arch&theme=onedark&no-frame=false&margin-w=10"/>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vanshbisht74-arch&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
@@ -89,10 +113,6 @@
 
 ---
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vanshbisht74-arch"/>
-</p>
 ## 📜 Certificates
 <p align="center">
   <a href="./E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_69b98e6b5e26c409f8bd2c11_1773772002490_completion_certificate.pdf">
@@ -101,7 +121,7 @@
   <a href="./ETGMhLB5eCrYjcH8o_MBA4MnZTNFEoJZGnk_69b98e6b5e26c409f8bd2c11_1773771401851_completion_certificate.pdf">
     <img src="https://img.shields.io/badge/Certificate-2-green?style=for-the-badge"/>
   </a>
-  <a href="./WmDnBzkLZFR9Rcjqa_tMjbs76F526fF5v3Gnk_69b98e6b5e26c409f8bd2c11_1773773984774_completion_certificate.pdf">
+  <a href="./WmDnBzkLZFR9Rcjqa_tMjbs76F526fF5v3G_69b98e6b5e26c409f8bd2c11_1773773984774_completion_certificate.pdf">
     <img src="https://img.shields.io/badge/Certificate-3-orange?style=for-the-badge"/>
   </a>
 </p>
@@ -115,20 +135,9 @@
 
 ---
 
-## 🧠 Problem Solving Platforms
-
+## 👀 Profile Views
 <p align="center">
-  <a href="https://leetcode.com/your-username">
-    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/your-username">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  </a>
-</p>
-
-## 🎯 Fun Animation
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+  <img src="https://visitcount.itsvg.in/api?id=vanshbisht74-arch&icon=5&color=12"/>
 </p>
 
 ---
