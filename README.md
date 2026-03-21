@@ -96,14 +96,14 @@
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vanshbisht74-arch&theme=onedark&no-frame=false&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vanshbisht74-arch&theme=onedark&no-frame=false&margin-w=10&v=2"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshbisht74-arch&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vanshbisht74-arch&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshbisht74-arch&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
