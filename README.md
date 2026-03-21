@@ -1,51 +1,103 @@
- Hi  I'm Vansh Viraj Bisht.
+<h1 align="center">Hi 👋, I'm Vansh Viraj Bisht</h1>
+<h3 align="center">🚀 Aspiring Developer | DSA Learner | SQL Explorer</h3>
 
-Email :vanshbisht74@gmail.com For Collaboration/Project .
-
-I’m currently learning: SQL,DSA
-
-## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vansh._.01._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vansh-viraj-bisht-138762394) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vanshbisht74@gmail.com) 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-%23FF6F00.svg?style=for-the-badge&logo=anthropic&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vanshbisht74-arch&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vanshbisht74-arch&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshbisht74-arch&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-## 📜 Certificates
-
-[![Certificate 1](https://img.shields.io/badge/View-Certificate_1-blue?style=for-the-badge)](./E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_69b98e6b5e26c409f8bd2c11_1773772002490_completion_certificate.pdf)
-
-[![Certificate 2](https://img.shields.io/badge/View-Certificate_2-green?style=for-the-badge)](./ETGMhLB5eCrYjcH8o_MBA4MnZTNFEoJZGnk_69b98e6b5e26c409f8bd2c11_1773771401851_completion_certificate.pdf)
-
-[![Certificate 3](https://img.shields.io/badge/View-Certificate_3-orange?style=for-the-badge)](./WmDnBzkLZFR9Rcjqa_tMjbs76F526fF5v3G_69b98e6b5e26c409f8bd2c11_1773773984774_completion_certificate.pdf)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vanshbisht74-arch&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Learning+DSA+%F0%9F%94%A5;Exploring+SQL+%F0%9F%93%8A;Building+Projects+%F0%9F%9A%80;Future+Software+Engineer+%F0%9F%92%BB" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vanshbisht74-arch&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+- 🎯 Currently learning **DSA & SQL**
+- 💡 Love building projects & improving logic
+- 🚀 Goal: Become a top Software Engineer
+- 📫 Reach me: **vanshbisht74@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://instagram.com/vansh._.01._"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://linkedin.com/in/vansh-viraj-bisht-138762394"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:vanshbisht74@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" />
+</p>
+
+---
+
+## 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,linux,vscode,pycharm,figma" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vanshbisht74-arch&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshbisht74-arch&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshbisht74-arch&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vanshbisht74-arch&theme=radical&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 📜 Certificates
+<p align="center">
+  <a href="./E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_69b98e6b5e26c409f8bd2c11_1773772002490_completion_certificate.pdf">
+    <img src="https://img.shields.io/badge/Certificate-1-blue?style=for-the-badge"/>
+  </a>
+  <a href="./ETGMhLB5eCrYjcH8o_MBA4MnZTNFEoJZGnk_69b98e6b5e26c409f8bd2c11_1773771401851_completion_certificate.pdf">
+    <img src="https://img.shields.io/badge/Certificate-2-green?style=for-the-badge"/>
+  </a>
+  <a href="./WmDnBzkLZFR9Rcjqa_tMjbs76F526fF5v3G_69b98e6b5e26c409f8bd2c11_1773773984774_completion_certificate.pdf">
+    <img src="https://img.shields.io/badge/Certificate-3-orange?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+## ✍️ Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔝 Top Repositories
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=vanshbisht74-arch&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=vanshbisht74-arch&icon=5&color=12"/>
+</p>
+
+---
+
+## 💡 Fun Animation
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+</p>
+
+---
+
+⭐️ From Vansh Viraj Bisht
