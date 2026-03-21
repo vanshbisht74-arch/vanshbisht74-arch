@@ -90,8 +90,9 @@
 ---
 
 ## 🏆 Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=vanshbisht74-arch"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vanshbisht74-arch"/>
+</p>
 ## 📜 Certificates
 <p align="center">
   <a href="./E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_69b98e6b5e26c409f8bd2c11_1773772002490_completion_certificate.pdf">
