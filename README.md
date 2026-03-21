@@ -36,22 +36,7 @@
 
 ---
 
-## 🧠 Problem Solving Platforms
-<p align="center">
-  <a href="https://leetcode.com/your-username">
-    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/your-username">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  </a>
-</p>
 
-<p align="center">
-  🚀 Solving DSA problems daily <br>
-  📈 Improving logic & problem-solving skills
-</p>
-
----
 
 ## 🐍 Contribution Snake
 <p align="center">
@@ -124,6 +109,22 @@
   <a href="./WmDnBzkLZFR9Rcjqa_tMjbs76F526fF5v3G_69b98e6b5e26c409f8bd2c11_1773773984774_completion_certificate.pdf">
     <img src="https://img.shields.io/badge/Certificate-3-orange?style=for-the-badge"/>
   </a>
+</p>
+
+---
+## 🧠My  Problem Solving Platforms
+<p align="center">
+  <a href="https://leetcode.com/your-username">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/your-username">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  🚀 Solving DSA problems daily <br>
+  📈 Improving logic & problem-solving skills
 </p>
 
 ---
