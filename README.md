@@ -121,15 +121,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
----
-
-## 👀 Profile Views
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=vanshbisht74-arch&icon=5&color=12"/>
-</p>
-
----
-
 <p align="center">
   <i>“Consistency beats intensity.”</i>
 </p>
