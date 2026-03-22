@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Cool+Projects+🚀;Exploring+SQL+📊;Improving+DSA+Skills+🔥;Open+to+Collaboration+🤝" />  
 </p>  
-
+ 
 <!-- Animated Line -->
 <p align="center">  
   <img src="https://user-images.githubusercontent.com/74038190/212284103-7f7d2c88-4e91-4c2b-9b4b-5c6e1f3cfe9c.gif" width="100%">
