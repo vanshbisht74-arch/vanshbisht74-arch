@@ -71,7 +71,6 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Claude-FF6F00?style=for-the-badge&logo=anthropic&logoColor=white"/>
 
 </p>
 
