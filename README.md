@@ -1,115 +1,82 @@
-<!-- GLITCH HEADER -->
+<h1 align="center">Hi 👋, I'm Vansh Viraj Bisht</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=2000&pause=300&color=00F7FF&center=true&vCenter=true&width=1000&lines=>>+ACCESSING+SYSTEM...;>>+USER:+VANSH+VIRAJ+BISHT;>>+STATUS:+ONLINE+⚡;>>+LOADING+INTERFACE..." />
+  <b>Aspiring Software Developer • Building Real Projects • Learning Every Day</b>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00F7FF&height=200&section=header&text=NEON%20CYBERSPACE&fontColor=00F7FF&fontSize=50&animation=blinking"/>
-</p>
-
----
-
-# 🖥️ TERMINAL
-
-```bash
-> whoami
-Vansh Viraj Bisht
-
-> role
-Aspiring Software Developer
-
-> focus
-DSA | SQL | Development
-
-> status
-Learning... Improving... Building...
-```
-
----
-
-# ⚡ SYSTEM STATS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshbisht74-arch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00F7FF&icon_color=00F7FF"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshbisht74-arch&theme=black-ice&hide_border=true&background=000000&ring=00F7FF"/>
+  <a href="mailto:vanshbisht74@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/vansh-viraj-bisht-138762394">LinkedIn</a> •
+  <a href="https://instagram.com/vansh._.01._">Instagram</a>
 </p>
 
 ---
 
-# 🧬 TECH STACK (LOADING...)
+## 👨‍💻 About Me
+
+- 🎯 Currently focused on **Data Structures & Algorithms and SQL**
+- 💡 I enjoy building **real-world projects**
+- 📈 Continuously improving problem-solving and development skills
+- 🚀 Goal: Become a **skilled Software Engineer**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Python, Java, JavaScript
+
+**Web**
+- HTML, CSS
+
+**Data & Tools**
+- SQL, NumPy, Pandas, Matplotlib
+
+**Tools & Environment**
+- Linux, VS Code, PyCharm, Figma
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,linux,vscode,pycharm,figma&theme=dark"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=database&logoColor=00F7FF"/>
-  <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00F7FF"/>
-  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00F7FF"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vanshbisht74-arch&show_icons=true&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshbisht74-arch&theme=default&hide_border=true" height="150"/>
 </p>
 
 ---
 
-# 🐍 SYSTEM ACTIVITY
+## 📌 Current Focus
+
+- Practicing **DSA daily**
+- Strengthening **core programming concepts**
+- Working on **project-based learning**
+
+---
+
+## 🌱 Learning
+
+- Advanced DSA
+- Backend development
+- System design basics
+
+---
+
+## 📈 Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshbisht74-arch&theme=minimal&hide_border=true"/>
 </p>
 
 ---
 
-# 📡 CONNECT
+## 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://instagram.com/vansh._.01._">
-    <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=00F7FF"/>
-  </a>
-  <a href="https://linkedin.com/in/vansh-viraj-bisht-138762394">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
-  </a>
-</p>
-
----
-
-# 🧠 AI CORE
-
-```diff
-+ Solving DSA daily
-+ Improving logic
-+ Building consistency
-+ Becoming better every day
-```
-
----
-
-# 📊 ACTIVITY GRAPH
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshbisht74-arch&theme=react-dark&bg_color=000000&hide_border=true&line=00F7FF&point=FFFFFF"/>
-</p>
-
----
-
-# 🧾 RANDOM SIGNAL
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-</p>
-
----
-
-# 👁️ VISITOR TRACKING
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=vanshbisht74-arch&icon=5&color=12"/>
-</p>
+- 📧 vanshbisht74@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/vansh-viraj-bisht-138762394  
+- 📷 Instagram: https://instagram.com/vansh._.01._  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=150&section=footer"/>
-</p>
-
-<p align="center">
-💀 SYSTEM MESSAGE: KEEP BUILDING ⚡
+  <i>"Consistency beats intensity."</i>
 </p>
