@@ -8,7 +8,7 @@
 
 <!-- Animated Line -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284103-7f7d2c88-4e91-4c2b-9b4b-5c6e1f3cfe9c.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284103-7f7d2c88-4e91-4c2b-9b4b-5c6e1f3cfe9c.gif" width= "100%">
 </p>
 
 ---
