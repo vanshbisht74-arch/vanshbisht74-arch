@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vansh Viraj Bisht</h1>
 <h3 align="center">🚀 Aspiring Developer | Building Cool Projects</h3>
-
+ 
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Cool+Projects+🚀;Exploring+SQL+📊;Improving+DSA+Skills+🔥;Open+to+Collaboration+🤝" />
