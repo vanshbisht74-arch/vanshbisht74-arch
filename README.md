@@ -3,7 +3,7 @@
  
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Cool+Projects+🚀;Exploring+SQL+📊;Improving+DSA+Skills+🔥;Open+to+Collaboration+🤝" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Cool+Projects+🚀;Exploring+SQL+ 📊;Improving+DSA+Skills+🔥;Open+to+Collaboration+🤝" />
 </p>
 
 <!-- Animated Line -->
