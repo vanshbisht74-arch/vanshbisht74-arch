@@ -12,7 +12,7 @@
 </p>
 
 ---
-
+ 
 ## 🧑‍💻 About Me
 - 🎯 Currently improving **DSA & SQL**
 - 💡 Love building real-world projects
