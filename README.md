@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vansh Viraj Bisht</h1>
-<h3 align="center">🚀 Aspiring Developer | Building Cool Projects</h3>
+<h3 align="center">🚀 Aspiring Developer | Building Cool Projects</h3> 
  
 <!-- Typing Animation -->
 <p align="center">
