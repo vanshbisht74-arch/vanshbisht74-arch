@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Vansh Viraj Bisht</h1>
 <h3 align="center">🚀 Aspiring Developer | Building Cool Projects</h3> 
- 
+
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?  font=Fira+Code&size=28&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Cool+Projects+🚀;Exploring+SQL+ 📊;Improving+DSA+Skills+🔥;Open+to+Collaboration+🤝" />    
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Cool+Projects+🚀;Exploring+SQL+📊;Improving+DSA+Skills+🔥;Open+to+Collaboration+🤝" />
 </p>  
- 
-<!-- Animated Line -->    
+
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284103-7f7d2c88-4e91-4c2b-9b4b-5c6e1f3cfe9c.gif" width= "100%">
-</p> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=120&section=header"/>
+</p>
 
 ---
- 
+
 ## 🧑‍💻 About Me
 - 🎯 Currently improving **DSA & SQL**
 - 💡 Love building real-world projects
@@ -38,7 +38,7 @@
 
 ## 🐍 Contributions
 <p align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" />
+  <img src="https://raw.githubusercontent.com/vanshbisht74-arch/vanshbisht74-arch/output/snake.svg" />
 </p>
 
 ---
@@ -69,9 +69,6 @@
 <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
-<br/>
-
-
 </p>
 
 ---
@@ -85,7 +82,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshbisht74-arch&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vanshbisht74-arch&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshbisht74-arch&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
@@ -131,10 +128,6 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
-
----
-
->
 
 ---
 
