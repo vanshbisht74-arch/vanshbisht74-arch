@@ -36,13 +36,6 @@
 
 ---
 
-## 🐍 Contributions
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vanshbisht74-arch/vanshbisht74-arch/output/snake.svg" />
-</p>
-
----
-
 ## 💻 Tech Stack
 <p align="center">
 
