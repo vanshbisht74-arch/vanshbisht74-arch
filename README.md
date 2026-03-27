@@ -2,11 +2,13 @@
 <h3 align="center">🚀 Aspiring Developer | Building Cool Projects</h3> 
 
 <!-- Typing Animation -->
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Cool+Projects+🚀;Exploring+SQL+📊;Improving+DSA+Skills+🔥;Open+to+Collaboration+🤝" />
 </p>  
 
 <!-- Animated Header -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=120&section=header"/>
 </p>
@@ -14,14 +16,16 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🎯 Currently improving **DSA & SQL**
-- 💡 Love building real-world projects
-- 🚀 Goal: Become a skilled Software Developer
-- 📫 Email: **vanshbisht74@gmail.com**
+
+* 🎯 Currently improving **DSA & SQL**
+* 💡 Love building real-world projects
+* 🚀 Goal: Become a skilled Software Developer
+* 📫 Email: **[vanshbisht74@gmail.com](mailto:vanshbisht74@gmail.com)**
 
 ---
 
 ## 🌐 Connect With Me
+
 <p align="center">
   <a href="https://instagram.com/vansh._.01._">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -37,12 +41,12 @@
 ---
 
 ## 💻 Tech Stack
+
 <p align="center">
 
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-
 
 <br/>
 
@@ -52,7 +56,6 @@
 <br/>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
 
 <br/>
 
@@ -66,16 +69,21 @@
 ---
 
 ## 🏆 Achievements
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vanshbisht74-arch&theme=onedark&no-frame=false&margin-w=10&v=2"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vanshbisht74-arch&theme=onedark&margin-w=10"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Includes Stars ⭐)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshbisht74-arch&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshbisht74-arch&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vanshbisht74-arch&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshbisht74-arch&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -84,7 +92,16 @@
 
 ---
 
+## ⭐ Total Stars
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/vanshbisht74-arch?style=for-the-badge"/>
+</p>
+
+---
+
 ## 📜 Certificates
+
 <p align="center">
   <a href="./E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_69b98e6b5e26c409f8bd2c11_1773772002490_completion_certificate.pdf">
     <img src="https://img.shields.io/badge/Certificate-1-blue?style=for-the-badge"/>
@@ -100,6 +117,7 @@
 ---
 
 ## 🧠 My Problem Solving Platforms
+
 <p align="center">
   <a href="https://leetcode.com/your-username">
     <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black"/>
@@ -117,6 +135,7 @@
 ---
 
 ## ✍️ Dev Quote
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
