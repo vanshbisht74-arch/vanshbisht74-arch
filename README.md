@@ -74,7 +74,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=vanshbisht74-arch&theme=onedark&no-frame=true&row=1&column=6&margin-w=10"/>
 </p>
 
-## 📊 GitHub Stats (Includes Stars ⭐)
+## 📊 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vanshbisht74-arch&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
@@ -90,7 +90,7 @@
 
 ---
 
-## ⭐ Total Stars
+## ⭐ Total Stars⭐
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/vanshbisht74-arch?style=for-the-badge"/>
