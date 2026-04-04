@@ -12,7 +12,7 @@
 <p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=120&section=header"/>
 </p>    
- 
+  
 --- 
 
 ## 🧑‍💻 About Me
