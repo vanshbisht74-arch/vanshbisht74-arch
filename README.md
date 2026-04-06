@@ -18,7 +18,7 @@
 ## 🧑‍💻 About Me
 
 * 🎯 Currently improving **DSA & SQL**
-* 💡 Love building real-world projects
+* 💡 Love building real-world projects 
 * 🚀 Goal: Become a skilled Software Developer
 * 📫 Email: **[vanshbisht74@gmail.com](mailto:vanshbisht74@gmail.com)**
 
