@@ -27,17 +27,16 @@ Currently focused on:
 
 ## 🚀 Skills
 
-- Programming: C / C++ / Java / Python (jo bhi tu use karta hai, edit kar lena)
+- Programming: Java / Python
 - DSA & Problem Solving
 - SQL & Database Management
-- Basic Web Development
+- Web Development
 
 ---
 
 ## 📌 Goals
 
 - Become a skilled software developer
-- Build strong project portfolio
 - Contribute to open source
 - Get internship opportunities
 
@@ -46,7 +45,6 @@ Currently focused on:
 ## 📫 Contact
 
 - Email: vanshbisht74@gmail.com  
-- Location: India 🇮🇳  
 - Open to: Internships | Collaboration | Projects
 
 ---
