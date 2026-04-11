@@ -48,10 +48,8 @@ Aspiring Software Developer focused on building real-world projects and improvin
 
 ## 📌 Goals
 
-- Become a skilled software developer  
-- Build strong real-world project portfolio  
-- Contribute to open source  
-- Get internship opportunities  
+- Become a skilled software developer    
+- Contribute to open source    
 
 ---
 
