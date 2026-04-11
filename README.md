@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0D0D0D,60:00F7FF20,100:007BFF&height=350&section=header&text=VANSH%20VIRAJ%20BISHT&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=Aspiring%20Developer%20|%20Building%20Real%20World%20Projects&descAlignY=65&descSize=22&stroke=00F7FF&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,30:00F7FF,60:00C2FF,100:1E90FF&height=350&section=header&text=VANSH%20VIRAJ%20BISHT&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=Aspiring%20Developer%20|%20Building%20Real%20World%20Projects&descAlignY=65&descSize=22&stroke=00F7FF&strokeWidth=2"/>
 
 <div align="center">
 
@@ -7,8 +7,8 @@
 <br/>
 
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00F7FF?style=for-the-badge&labelColor=0D0D0D"/>
-<img src="https://img.shields.io/badge/FOCUS-REAL%20WORLD%20PROJECTS-FF6B35?style=for-the-badge&labelColor=0D0D0D"/>
-<img src="https://img.shields.io/badge/LOCATION-INDIA%20🇮🇳-FF6B35?style=for-the-badge&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/FOCUS-REAL%20WORLD%20PROJECTS-1E90FF?style=for-the-badge&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/LOCATION-INDIA%20🇮🇳-00C2FF?style=for-the-badge&labelColor=0D0D0D"/>
 
 </div>
 
@@ -16,12 +16,7 @@
 
 ## 👨‍💻 About
 
-Aspiring Software Developer focused on building real-world projects and improving development skills.
-
-Currently working on:
-- Real-world projects
-- Problem solving mindset
-- Learning by building
+Aspiring Software Developer focused on building real-world projects and improving development skills through practice and consistency.
 
 ---
 
@@ -49,12 +44,34 @@ Currently working on:
 
 </p>
 
+---
+
 ## 📌 Goals
 
-- Become a skilled software developer
-- Build strong real-world project portfolio
-- Contribute to open source
-- Get internship opportunities
+- Become a skilled software developer  
+- Build strong real-world project portfolio  
+- Contribute to open source  
+- Get internship opportunities  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=vanshbisht74-arch&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshbisht74-arch&theme=tokyonight" />
+</p>
+
+---
+
+## 💬 Random Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 
@@ -62,8 +79,8 @@ Currently working on:
 
 - Email: vanshbisht74@gmail.com  
 - Location: India 🇮🇳  
-- Open to: Internships | Collaboration | Projects
+- Open to: Internships | Collaboration | Projects  
 
 ---
 
-⭐ *Build. Learn. Repeat.*
+⭐ *Build. Learn. Improve. Repeat.*
