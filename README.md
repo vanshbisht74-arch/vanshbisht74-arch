@@ -76,7 +76,6 @@ Aspiring Software Developer focused on building real-world projects and improvin
 ## 📫 Contact
 
 - Email: vanshbisht74@gmail.com  
-- Location: India 🇮🇳  
 - Open to: Internships | Collaboration | Projects  
 
 ---
