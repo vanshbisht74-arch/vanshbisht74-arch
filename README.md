@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=26&duration=2500&pause=1200&color=00F7FF&center=true&vCenter=true&width=850&height=55&lines=Aspiring+Software+Developer;Building+Real+World+Projects;Open+to+Internships+%26+Collaborations" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=26&duration=2500&pause=1200&color=00F7FF&center=true&vCenter=true&width=850&height=55&lines=Aspiring+Software+Developer;Building+Real+World+Projects;Open+to+Internships+%26+Collaborations" />  
 
 <br/>
 
