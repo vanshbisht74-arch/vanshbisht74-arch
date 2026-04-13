@@ -59,7 +59,7 @@ Aspiring Software Developer focused on building real-world projects and improvin
 <img src="https://github-readme-stats.vercel.app/api?username=vanshbisht74-arch&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
+<p align="center"> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshbisht74-arch&theme=tokyonight" />
 </p>
 
