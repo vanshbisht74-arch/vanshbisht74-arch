@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/FOCUS-REAL%20WORLD%20PROJECTS-1E90FF?style=for-the-badge&labelColor=0D0D0D"/>
 <img src="https://img.shields.io/badge/LOCATION-INDIA%20🇮🇳-00C2FF?style=for-the-badge&labelColor=0D0D0D"/>
 
-</div>
+</div> 
 
 ---
 
