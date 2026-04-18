@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,30:00F7FF,60:00C2FF,100:1E90FF&height=350&section=header&text=VANSH%20VIRAJ%20BISHT&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=Aspiring%20Developer%20|%20Building%20Real%20World%20Projects&descAlignY=65&descSize=22&stroke=00F7FF&strokeWidth=2"/>
 
 <div align="center">  
-        
+         
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=26&duration=2500&pause=1200&color=00F7FF&center=true&vCenter=true&width=850&height=55&lines=Aspiring+Software+Developer;Building+Real+World+Projects;Open+to+Internships+%26+Collaborations" />   
 
 <br/>   
