@@ -1,226 +1,166 @@
 ````md
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:FA709A,20:FEE140,40:7AF5FF,60:6A82FB,80:FC5C7D,100:FFDEE9&text=VANSH%20VIRAJ%20BISHT&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Building%20Experiences%20That%20Feel%20Alive&descAlignY=58&descSize=24"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:FA709A,20:FEE140,40:7AF5FF,60:6A82FB,80:FC5C7D,100:FFDEE9&text=VANSH%20VIRAJ%20BISHT&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20•%20Open%20Source%20Learner%20•%20Project%20Builder&descAlignY=58&descSize=22"/>
 </p>
 
-<div align="center">
+<h3 align="center">
+Building Projects • Learning Daily • Creating My Future
+</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=2200&pause=900&color=6A82FB&center=true&vCenter=true&width=1000&lines=Software+Developer;React+Developer+%7C+AI+Explorer;Building+Projects+That+People+Actually+Use;Open+Source+Learner;Consistency+Creates+Skill;Future+Full+Stack+Engineer" />
+<p align="center">
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=6A82FB&center=true&vCenter=true&width=900&lines=Software+Developer;React+%7C+Python+%7C+JavaScript;Building+Real+World+Projects;Learning+AI+%26+Backend;Future+Full+Stack+Engineer"/>
+
+</p>
+
+---
+
+<p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=vanshbisht74-arch&style=for-the-badge&color=6A82FB"/>
 
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20INTERNSHIPS-6A82FB?style=for-the-badge&labelColor=111111"/>
+<img src="https://img.shields.io/badge/Open%20to-Internships-6A82FB?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/FOCUS-BUILDING%20REAL%20PROJECTS-00C9A7?style=for-the-badge&labelColor=111111"/>
+<img src="https://img.shields.io/badge/Focus-Real%20Projects-00C9A7?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/LEARNING-AI%20%26%20FULLSTACK-FF6B81?style=for-the-badge&labelColor=111111"/>
+<img src="https://img.shields.io/badge/Learning-AI%20%26%20Development-FF6B81?style=for-the-badge"/>
 
-</div>
-
----
-
-<div align="center">
-
-# ✨ About Me
-
-</div>
-
-<table>
-<tr>
-<td width="55%">
-
-```yaml
-name: Vansh Viraj Bisht
-located_in: India
-current_focus:
-  - Full Stack Development
-  - React Ecosystem
-  - AI Applications
-  - Open Source
-
-currently_learning:
-  - Backend Development
-  - Advanced React
-  - Data Structures & Algorithms
-
-life_philosophy:
-  - "Build > Talk"
-  - "Projects > Tutorials"
-  - "Consistency Wins"
-````
-
-</td>
-
-<td width="45%">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
-
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
+# 👨‍💻 About Me
+
+- 🎓 B.Tech CSE Student
+- 💻 Passionate About Software Development
+- 🚀 Building Real World Projects
+- 📚 Learning React, Python, DSA & AI
+- 🌱 Exploring Open Source
+- ⚡ Goal: Become a Professional Software Engineer
+
+---
+
+<p align="center">
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/216656985-441b8a91-0f72-4a6d-9b75-83ceb7b9c5f0.gif"/>
+</p>
 
-# ⚡ Tech Arsenal
+# ⚡ Tech Stack
 
-<div align="center">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,nodejs,html,css,mongodb,mysql,git,github,vscode,linux&theme=light"/>
 
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanshbisht74-arch&theme=github"/>
-
-</div>
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-<div align="center">
-
 <table>
-
 <tr>
 
 <td width="50%">
-
 <h3 align="center">🎮 Gamified Task Manager</h3>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vanshbisht74-arch&repo=YOUR_REPO_NAME&theme=transparent"/>
-
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vanshbisht74-arch&repo=YOUR_REPO_NAME&theme=default&hide_border=true"/>
 </p>
 
-<div align="center">
-
-✨ XP Based Productivity System
-🌙 Dark & Light Theme
-⚡ React + LocalStorage
-🎯 Level & Reward Mechanics
-
-</div>
+<p align="center">
+XP Based Productivity App <br/>
+React + LocalStorage <br/>
+Dark & Light Theme
+</p>
 
 </td>
 
 <td width="50%">
-
 <h3 align="center">🤖 AI Browser Assistant</h3>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vanshbisht74-arch&repo=YOUR_REPO_NAME&theme=transparent"/>
-
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vanshbisht74-arch&repo=YOUR_REPO_NAME&theme=default&hide_border=true"/>
 </p>
 
-<div align="center">
-
-🧠 Integrated AI Assistant
-⚡ Electron + Express
-🌐 Browser With AI Features
-🚀 Experimental AI Workflows
-
-</div>
+<p align="center">
+Electron Based AI Browser <br/>
+Node.js + Express Backend <br/>
+Integrated AI Features
+</p>
 
 </td>
 
 </tr>
-
 </table>
-
-</div>
 
 ---
 
-# 📊 GitHub Universe
+# 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanshbisht74-arch&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=vanshbisht74-arch&show_icons=true&theme=default&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshbisht74-arch&theme=transparent&hide_border=true"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshbisht74-arch&theme=default&hide_border=true"/>
 
-</div>
+</p>
 
-<br/>
+---
 
-<div align="center">
+# 📈 Contribution Graph
+
+<p align="center">
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vanshbisht74-arch&bg_color=ffffff&color=6A82FB&line=00C9A7&point=FF6B81&hide_border=true&area=true"/>
 
-</div>
+</p>
 
 ---
 
-# 🏆 Achievements
+# 🏆 GitHub Achievements
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vanshbisht74-arch&theme=flat&margin-w=10&no-frame=true&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vanshbisht74-arch&theme=flat&no-frame=true&row=1&column=7"/>
 
-</div>
+</p>
 
 ---
 
 # 🐍 Contribution Snake
 
-<div align="center">
+<p align="center">
 
 <img src="https://raw.githubusercontent.com/vanshbisht74-arch/vanshbisht74-arch/output/github-contribution-grid-snake.svg"/>
 
-</div>
+</p>
 
 ---
 
-# 🌌 Developer Mindset
-
-<div align="center">
+# 🌌 Current Focus
 
 ```txt
-BUILD THINGS THAT MATTER
-LEARN EVERY SINGLE DAY
-CREATE > CONSUME
-CONSISTENCY OVER MOTIVATION
-```
-
-</div>
-
----
-
-# 📈 Coding Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanshbisht74-arch&theme=github"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanshbisht74-arch&theme=github"/>
-
-</div>
+📌 React Development
+📌 Full Stack Development
+📌 AI Applications
+📌 Open Source Contributions
+📌 Data Structures & Algorithms
+````
 
 ---
 
 # 💭 Random Dev Quote
 
-<div align="center">
+<p align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
 
-</div>
+</p>
 
 ---
 
 # 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
 
 <a href="mailto:vanshbisht74@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -230,15 +170,13 @@ CONSISTENCY OVER MOTIVATION
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:FA709A,20:FEE140,40:7AF5FF,60:6A82FB,80:FC5C7D,100:FFDEE9"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FA709A,20:FEE140,40:7AF5FF,60:6A82FB,80:FC5C7D,100:FFDEE9"/>
 
-### ⭐ Build • Learn • Improve • Repeat ⭐
-
-</div>
+</p>
 ```
