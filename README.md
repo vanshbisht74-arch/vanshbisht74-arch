@@ -26,10 +26,7 @@ const vansh = {
   education:  "B.Tech CSE 🎓",
   location:   "India 🇮🇳",
   currentlyLearning: ["React", "Node.js", "Python", "DSA", "AI/ML"],
-  buildingNow: ["Gamified Task Manager", "AI Browser Assistant"],
-  goal:       "Become a Professional Full Stack Engineer 🚀",
-  openTo:     ["Internships", "Collaborations", "Open Source"],
-  funFact:    "I turn coffee ☕ into code 💻"
+  openTo:     ["Internships", "Collaborations", "Open Source"]
 };
 ```
 
