@@ -110,15 +110,7 @@ const vansh = {
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshbisht74-arch&theme=radical&hide_border=true&background=0d1117&ring=f093fb&fire=f5576c&currStreakLabel=4facfe"/>
 </p>
 
----
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vanshbisht74-arch&bg_color=0d1117&color=f093fb&line=764ba2&point=f5576c&hide_border=true&area=true&area_color=667eea"/>
-</p>
-
----
 
 ## 🏆 GitHub Trophies
 
