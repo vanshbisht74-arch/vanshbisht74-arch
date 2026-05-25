@@ -120,18 +120,6 @@ const vansh = {
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanshbisht74-arch/vanshbisht74-arch/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vanshbisht74-arch/vanshbisht74-arch/output/github-contribution-grid-snake.svg"/>
-    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/vanshbisht74-arch/vanshbisht74-arch/output/github-contribution-grid-snake.svg"/>
-  </picture>
-</p>
-
----
-
 ## 🎯 What I'm Focusing On
 
 <div align="center">
