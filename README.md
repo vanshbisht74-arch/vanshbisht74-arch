@@ -101,7 +101,10 @@ const vansh = {
 ---
 
 ## 📊 GitHub Stats
-
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vanshbisht74-arch&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshbisht74-arch&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117"/>
+</p>
 
 
 <p align="center">
