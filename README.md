@@ -18,16 +18,32 @@
 
 ## 🌟 About Me
 
-```javascript
-const vansh = {
-  name: "Vansh Viraj Bisht",
-  education: "B.Tech CSE",
-  location: "India 🇮🇳",
-  currentlyLearning: ["React", "Node.js", "Python", "DSA", "AI/ML"],
-  openTo: ["Internships", "Collaborations", "Open Source"],
-  goal: "Become a strong Full Stack + AI Engineer"
-};
-```
+<table>
+  <tr>
+    <td><b>Name</b></td>
+    <td>Vansh Viraj Bisht</td>
+  </tr>
+  <tr>
+    <td><b>Education</b></td>
+    <td>B.Tech CSE Student</td>
+  </tr>
+  <tr>
+    <td><b>Location</b></td>
+    <td>India 🇮🇳</td>
+  </tr>
+  <tr>
+    <td><b>Currently Learning</b></td>
+    <td>React, Node.js, Python, DSA, AI/ML</td>
+  </tr>
+  <tr>
+    <td><b>Open To</b></td>
+    <td>Internships, Collaborations, Open Source</td>
+  </tr>
+  <tr>
+    <td><b>Goal</b></td>
+    <td>Become a strong Full Stack + AI Engineer</td>
+  </tr>
+</table>
 
 ---
 
@@ -47,15 +63,15 @@ const vansh = {
       <h3 align="center">🎮 Gamified Task Manager</h3>
       <p align="center">
         <a href="https://github.com/vanshbisht74-arch/react---capstone-project">
-          <img alt="View project" src="https://img.shields.io/badge/VIEW%20PROJECT-%E2%86%92-764ba2?style=for-the-badge" />
+          <img alt="View Project" src="https://img.shields.io/badge/View%20Project-764ba2?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
       <p><b>Turn your to-do list into an RPG-style productivity app.</b></p>
       <ul>
-        <li>⚛️ React component-based UI</li>
-        <li>💾 LocalStorage persistence</li>
-        <li>🏆 XP, levels, coins and rewards</li>
-        <li>🎯 Search, task completion and progress tracking</li>
+        <li>React component-based UI</li>
+        <li>LocalStorage persistence</li>
+        <li>XP, levels, coins and rewards</li>
+        <li>Search, task completion and progress tracking</li>
       </ul>
       <p>
         <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -63,20 +79,19 @@ const vansh = {
         <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
       </p>
     </td>
-
     <td width="50%" valign="top">
       <h3 align="center">🤖 AI Browser Assistant</h3>
       <p align="center">
         <a href="https://github.com/vanshbisht74-arch/ai-browserbutton">
-          <img alt="View project" src="https://img.shields.io/badge/VIEW%20PROJECT-%E2%86%92-f5576c?style=for-the-badge" />
+          <img alt="View Project" src="https://img.shields.io/badge/View%20Project-f5576c?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
       <p><b>A desktop browser assistant with AI-powered features.</b></p>
       <ul>
-        <li>🖥️ Electron desktop app</li>
-        <li>🔧 Node.js + Express backend</li>
-        <li>🤖 AI assistant integration</li>
-        <li>🌐 Browser-style interface</li>
+        <li>Electron desktop app</li>
+        <li>Node.js + Express backend</li>
+        <li>AI assistant integration</li>
+        <li>Browser-style interface</li>
       </ul>
       <p>
         <img alt="Electron" src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
@@ -85,39 +100,37 @@ const vansh = {
       </p>
     </td>
   </tr>
-
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">📊 Trading Bot</h3>
       <p align="center">
         <a href="https://github.com/vanshbisht74-arch/trading-bot">
-          <img alt="View project" src="https://img.shields.io/badge/VIEW%20PROJECT-%E2%86%92-4facfe?style=for-the-badge" />
+          <img alt="View Project" src="https://img.shields.io/badge/View%20Project-4facfe?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
       <p><b>A Python-based trading bot project using exchange APIs.</b></p>
       <ul>
-        <li>🐍 Python automation</li>
-        <li>📈 API-based order workflow</li>
-        <li>🧪 CLI testing and logging</li>
+        <li>Python automation</li>
+        <li>API-based order workflow</li>
+        <li>CLI testing and logging</li>
       </ul>
       <p>
         <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img alt="API" src="https://img.shields.io/badge/API-Integration-f093fb?style=flat-square" />
       </p>
     </td>
-
     <td width="50%" valign="top">
       <h3 align="center">🎓 Student Dashboard</h3>
       <p align="center">
         <a href="https://github.com/vanshbisht74-arch/react-assignment-3-student-dashboard">
-          <img alt="View project" src="https://img.shields.io/badge/VIEW%20PROJECT-%E2%86%92-667eea?style=for-the-badge" />
+          <img alt="View Project" src="https://img.shields.io/badge/View%20Project-667eea?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
       <p><b>A React dashboard for student data and score display.</b></p>
       <ul>
-        <li>⚛️ React components</li>
-        <li>📋 Student scoreboard UI</li>
-        <li>🎯 Clean assignment-style structure</li>
+        <li>React components</li>
+        <li>Student scoreboard UI</li>
+        <li>Clean assignment-style structure</li>
       </ul>
       <p>
         <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -132,12 +145,12 @@ const vansh = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=vanshbisht74-arch&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshbisht74-arch&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117" />
+  <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vanshbisht74-arch&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117" />
+  <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshbisht74-arch&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117" />
 </p>
 
 <p align="center">
-  <img width="60%" alt="GitHub streak" src="https://streak-stats.demolab.com?user=vanshbisht74-arch&theme=radical&hide_border=true&background=0D1117&ring=F093FB&fire=F5576C&currStreakLabel=4FACFE" />
+  <img width="60%" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=vanshbisht74-arch&theme=radical&hide_border=true&background=0D1117&ring=F093FB&fire=F5576C&currStreakLabel=4FACFE" />
 </p>
 
 ---
@@ -145,7 +158,7 @@ const vansh = {
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=vanshbisht74-arch&theme=radical&no-frame=true&row=1&column=7&margin-w=8" />
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=vanshbisht74-arch&theme=radical&no-frame=true&row=1&column=7&margin-w=8" />
 </p>
 
 ---
@@ -154,14 +167,14 @@ const vansh = {
 
 <div align="center">
 
-| 🔥 Area | 📌 Currently Doing |
-|:---:|:---|
-| ⚛️ Frontend | React, Tailwind CSS, Component Architecture |
-| 🔧 Backend | Node.js, Express, REST APIs |
-| 🗄️ Database | MongoDB, MySQL |
-| 🤖 AI / ML | AI APIs, ML basics and real-world AI projects |
-| 🧠 DSA | Daily problem solving and core data structures |
-| 🌍 Open Source | Learning GitHub workflow and contributing |
+|     Area    | Currently Doing                                |
+| :---------: | :--------------------------------------------- |
+|   Frontend  | React, Tailwind CSS, Component Architecture    |
+|   Backend   | Node.js, Express, REST APIs                    |
+|   Database  | MongoDB, MySQL                                 |
+|   AI / ML   | AI APIs, ML basics and real-world AI projects  |
+|     DSA     | Daily problem solving and core data structures |
+| Open Source | Learning GitHub workflow and contributing      |
 
 </div>
 
@@ -170,7 +183,7 @@ const vansh = {
 ## 💭 Dev Quote of the Day
 
 <p align="center">
-  <img alt="Dev quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img alt="Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
@@ -193,5 +206,5 @@ const vansh = {
 ---
 
 <p align="center">
-  <img width="100%" alt="Footer banner" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:4facfe,25:667eea,50:764ba2,75:f093fb,100:f5576c" />
+  <img width="100%" alt="Footer Banner" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:4facfe,25:667eea,50:764ba2,75:f093fb,100:f5576c" />
 </p>
