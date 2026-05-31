@@ -55,7 +55,7 @@ const vansh = {
   </a>
 </p>
 
-> Turn your to-do list into an RPG adventure
+> Turn your to-do list into an RPG adventure  
 
 - ⚛️ **React** — component-based UI
 - 💾 **LocalStorage** — persistent state
