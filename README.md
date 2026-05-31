@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=f093fb&center=true&vCenter=true&width=750&lines=B.Tech+CSE+Student+%F0%9F%8E%93;Building+Real-World+Projects+%F0%9F%9A%80;React+%7C+Python+%7C+Node.js+%7C+AI;Open+to+Internships+%26+Collabs+%F0%9F%A4%9D;Future+Full+Stack+Engineer+%F0%9F%92%AA"/>
-</p>
+</p>  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vanshbisht74-arch&style=for-the-badge&color=764ba2&label=PROFILE+VIEWS"/>
