@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:667eea,25:764ba2,50:f093fb,75:f5576c,100:4facfe&text=Vansh%20Viraj%20Bisht&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Open%20Source%20Learner%20%E2%80%A2%20Project%20Builder&descAlignY=58&descSize=21"/>
 </p>
 
-<p align="center">
+<p align="center">  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=f093fb&center=true&vCenter=true&width=750&lines=B.Tech+CSE+Student+%F0%9F%8E%93;Building+Real-World+Projects+%F0%9F%9A%80;React+%7C+Python+%7C+Node.js+%7C+AI;Open+to+Internships+%26+Collabs+%F0%9F%A4%9D;Future+Full+Stack+Engineer+%F0%9F%92%AA"/>
 </p>  
 
