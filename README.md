@@ -60,18 +60,18 @@ README for Vansh Viraj Bisht -->
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">FACE RECOGNITION SYSTEM </h3>
+      <h3 align="center">🎮 Gamified Task Manager</h3>
       <p align="center">
         <a href="https://github.com/vanshbisht74-arch/react---capstone-project">
           <img alt="View Project" src="https://img.shields.io/badge/View%20Project-764ba2?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p><b>Marks smart attendance based on facial data.</b></p>
+      <p><b>Turn your to-do list into an RPG-style productivity app.</b></p>
       <ul>
-        <li> GOOD UI</li>
+        <li>React component-based UI</li>
         <li>LocalStorage persistence</li>
-        <li>high accuracy</li>
-    
+        <li>XP, levels, coins and rewards</li>
+        <li>Search, task completion and progress tracking</li>
       </ul>
       <p>
         <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
