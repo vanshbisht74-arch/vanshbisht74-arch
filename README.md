@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <img width="100%" alt="Vansh Viraj Bisht Banner" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:667eea,25:764ba2,50:f093fb,75:f5576c,100:4facfe&text=Vansh%20Viraj%20Bisht&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Open%20Source%20Learner%20%E2%80%A2%20Project%20Builder&descAlignY=58&descSize=20" />
 </p>  
@@ -50,7 +48,7 @@
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img alt="Tech stack icons" src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,nodejs,express,html,css,tailwind,mongodb,mysql,git,github,vscode,linux&perline=8" />
+  <img alt="Tech stack icons" src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,html,css,mysql,git,github,vscode,linux&perline=6" />
 </p>
 
 ---
@@ -89,14 +87,13 @@
       <p><b>A desktop browser assistant with AI-powered features.</b></p>
       <ul>
         <li>Electron desktop app</li>
-        <li>Node.js + Express backend</li>
+        <li>Node.js backend</li>
         <li>AI assistant integration</li>
         <li>Browser-style interface</li>
       </ul>
       <p>
         <img alt="Electron" src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
         <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -155,17 +152,15 @@
 
 ---
 
-
-
 ## 🎯 What I'm Focusing On
 
 <div align="center">
 
 |     Area    | Currently Doing                                |
 | :---------: | :--------------------------------------------- |
-|   Frontend  | React, Tailwind CSS, Component Architecture    |
-|   Backend   | Node.js, Express, REST APIs                    |
-|   Database  | MongoDB, MySQL                                 |
+|   Frontend  | React, Component Architecture, Clean UI        |
+|   Backend   | Node.js, REST APIs                             |
+|   Database  | MySQL                                          |
 |   AI / ML   | AI APIs, ML basics and real-world AI projects  |
 |     DSA     | Daily problem solving and core data structures |
 | Open Source | Learning GitHub workflow and contributing      |
