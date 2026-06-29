@@ -6,7 +6,7 @@
   <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=F093FB&center=true&vCenter=true&width=850&lines=B.Tech+CSE+Student+%F0%9F%8E%93;Building+Real-World+Projects+%F0%9F%9A%80;React+%7C+Python+%7C+Node.js+%7C+AI%2FML;Open+to+Internships+%26+Collaborations+%F0%9F%A4%9D;Future+Full+Stack+%2B+AI+Engineer+%F0%9F%92%AA" />
 </p>
 
-<p align="center">
+<p align="center"> 
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=vanshbisht74-arch&style=for-the-badge&color=764ba2&label=PROFILE+VIEWS" />
   <img alt="Open to internships" src="https://img.shields.io/badge/STATUS-Open%20to%20Internships-f5576c?style=for-the-badge" />
   <img alt="Focus" src="https://img.shields.io/badge/FOCUS-Full%20Stack%20%2B%20AI-4facfe?style=for-the-badge" />
