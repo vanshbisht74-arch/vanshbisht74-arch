@@ -29,7 +29,7 @@ Building practical software, learning modern technologies, and working toward be
 - 🎓 B.Tech Computer Science Student
 - 🇮🇳 Based in India
 - 💻 Passionate about Full Stack Development and AI
-- 🌱 Currently learning React, Node.js, Python, DSA and AI/ML
+- 🌱 Currently learning React, Python, DSA and AI/ML
 - 🤝 Open to internships, collaborations and open-source contributions
 - 🚀 Goal: Become a skilled Software Engineer specializing in Full Stack Development and Artificial Intelligence
 
@@ -76,8 +76,6 @@ https://github.com/vanshbisht74-arch/react-assignment-3-student-dashboard
 # 🌱 Currently Learning
 
 - React Ecosystem
-- Backend Development with Node.js
-- REST APIs
 - Data Structures & Algorithms
 - Machine Learning Fundamentals
 - SQL & Database Design
@@ -87,7 +85,6 @@ https://github.com/vanshbisht74-arch/react-assignment-3-student-dashboard
 
 # 🎯 2026 Goals
 
-- Build production-ready Full Stack applications
 - Strengthen DSA problem-solving skills
 - Explore AI/ML projects
 - Contribute to Open Source
