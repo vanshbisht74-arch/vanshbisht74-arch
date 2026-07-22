@@ -47,7 +47,11 @@ Building practical software, learning modern technologies, and working toward be
 
 **Tech Stack**
 
-`React` `JavaScript`
+1.Python and frameworks.
+2.Java
+3.Web development
+4.Sql
+
 
 🔗 Repository
 
