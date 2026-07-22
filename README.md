@@ -45,7 +45,7 @@ Building practical software, learning modern technologies, and working toward be
 
 ---
 
-**Tech Stack**
+**Tech Stack**(in words)
 
 1.Python and frameworks.
 2.Java
