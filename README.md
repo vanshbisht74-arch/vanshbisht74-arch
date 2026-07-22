@@ -1,9 +1,19 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:667eea,100:764ba2 />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:667eea,100:764ba2&text=Vansh%20Viraj%20Bisht&fontSize=50&fontColor=ffffff&animation=fadeIn"
+    width="100%"
+    alt="Vansh Viraj Bisht Banner"
+  />
 </p>
 
 <h1 align="center">Hi 👋, I'm Vansh Viraj Bisht</h1>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=B.Tech+Computer+Science+Student;Full+Stack+Developer;AI%2FML+Enthusiast;Learning+React+%7C+Python+%7C+DSA;Open+to+Internships+%26+Collaborations"
+    alt="Typing Animation"
+  />
+</p>
 
 <p align="center">
   <b>B.Tech Computer Science Student • Full Stack Developer • AI/ML Enthusiast</b>
@@ -15,10 +25,10 @@ Building practical software, learning modern technologies, and working toward be
 
 <p align="center">
   <a href="mailto:vanshbisht74@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/vanshbisht74-arch">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -38,28 +48,21 @@ Building practical software, learning modern technologies, and working toward be
 # 💻 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,html,css,mysql,git,github,vscode,linux&perline=6"/>
-
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,html,css,mysql,git,github,vscode,linux&perline=6" />
 </p>
 
----
+### Technologies
 
-**Tech Stack**(in words)
-
-1.Python and frameworks.
-2.Java
-3.Web development
-4.Sql
-
-
-🔗 Repository
-
-https://github.com/vanshbisht74-arch/react-assignment-3-student-dashboard
+- 🐍 Python
+- ☕ Java
+- 🌐 HTML, CSS, JavaScript
+- ⚛️ React
+- 🟢 Node.js
+- 🗄️ MySQL
+- 🔧 Git & GitHub
+- 🐧 Linux
 
 ---
-
-
 
 # 🌱 Currently Learning
 
@@ -70,31 +73,30 @@ https://github.com/vanshbisht74-arch/react-assignment-3-student-dashboard
 - Git & GitHub Workflow
 
 ---
+
 # 🤝 Connect With Me
 
 <p align="center">
+  <a href="mailto:vanshbisht74@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 
-<a href="mailto:vanshbisht74@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/vanshbisht74-arch">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/vanshbisht74-arch">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Code. Learn. Build. Improve. Repeat."*
-
+  <b>⭐ Thanks for visiting my profile!</b><br><br>
+  <i>"Code. Learn. Build. Improve. Repeat."</i>
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:667eea,100:764ba2"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:667eea,100:764ba2"
+    width="100%"
+    alt="Footer"
+  />
 </p>
-```
