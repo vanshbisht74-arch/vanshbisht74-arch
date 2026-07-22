@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:667eea,100:764ba2&text=Vansh%20Viraj%20Bisht&fontSize=55&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:667eea,100:764ba2&text=fontSize=55&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Vansh Viraj Bisht</h1>
