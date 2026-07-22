@@ -1,8 +1,8 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:667eea,100:764ba2&text=Vansh%20Viraj%20Bisht&fontSize=50&fontColor=ffffff&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:667eea,100:764ba2&animation=fadeIn&section=header"
     width="100%"
-    alt="Vansh Viraj Bisht Banner"
+    alt="Animated Wave Banner"
   />
 </p>
 
