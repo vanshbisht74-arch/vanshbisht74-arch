@@ -64,28 +64,27 @@ Building practical software, learning modern technologies, and working toward be
 - 🐧 Linux
 
 ---
-
 # 🏆 Certifications
 
 ### Microsoft Certified: Azure AI Apps and Agents Developer Associate
 
 <p align="center">
-  <img 
-    src="./microsoft-azure-ai-certification.png"
-    alt="Microsoft Certified: Azure AI Apps and Agents Developer Associate"
-    width="850"
-  />
+  <a href="./vansh%20microsoft%20ai%20engineer%20103.pdf">
+    <img 
+      src="https://img.shields.io/badge/Microsoft-Certified%20Azure%20AI%20Apps%20%26%20Agents%20Developer%20Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"
+      alt="Microsoft Certified: Azure AI Apps and Agents Developer Associate"
+    />
+  </a>
 </p>
 
 | Details | Information |
 |---|---|
-| **Certification** | Azure AI Apps and Agents Developer Associate |
+| **Certification** | Microsoft Certified: Azure AI Apps and Agents Developer Associate |
 | **Issued By** | Microsoft |
 | **Earned** | 21 August 2026 |
 | **Valid Until** | 22 August 2027 |
-| **Credential ID** | A280C56B85C7B465 |
-| **Certification Number** | AAFD6C-447EA5 |
 
+> 📜 **[View My Microsoft Certificate](./vansh%20microsoft%20ai%20engineer%20103.pdf)**
 ---
 
 # 🌱 Currently Learning
