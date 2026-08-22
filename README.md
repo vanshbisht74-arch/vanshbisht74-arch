@@ -10,7 +10,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=B.Tech+Computer+Science+Student;Full+Stack+Developer;AI%2FML+Enthusiast;Learning+React+%7C+Python+%7C+DSA;Open+to+Internships+%26+Collaborations"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=B.Tech+Computer+Science+Student;Full+Stack+Developer;AI%2FML+Enthusiast;Microsoft+Certified+Azure+AI+Developer;Learning+React+%7C+Python+%7C+DSA;Open+to+Internships+%26+Collaborations"
     alt="Typing Animation"
   />
 </p>
@@ -40,6 +40,7 @@ Building practical software, learning modern technologies, and working toward be
 - 🇮🇳 Based in India
 - 💻 Passionate about Full Stack Development and AI
 - 🌱 Currently learning React, Python, DSA and AI/ML
+- 🏆 Microsoft Certified: Azure AI Apps and Agents Developer Associate
 - 🤝 Open to internships, collaborations and open-source contributions
 - 🚀 Goal: Become a skilled Software Engineer specializing in Full Stack Development and Artificial Intelligence
 
@@ -64,6 +65,29 @@ Building practical software, learning modern technologies, and working toward be
 
 ---
 
+# 🏆 Certifications
+
+### Microsoft Certified: Azure AI Apps and Agents Developer Associate
+
+<p align="center">
+  <img 
+    src="./microsoft-azure-ai-certification.png"
+    alt="Microsoft Certified: Azure AI Apps and Agents Developer Associate"
+    width="850"
+  />
+</p>
+
+| Details | Information |
+|---|---|
+| **Certification** | Azure AI Apps and Agents Developer Associate |
+| **Issued By** | Microsoft |
+| **Earned** | 21 August 2026 |
+| **Valid Until** | 22 August 2027 |
+| **Credential ID** | A280C56B85C7B465 |
+| **Certification Number** | AAFD6C-447EA5 |
+
+---
+
 # 🌱 Currently Learning
 
 - React Ecosystem
@@ -71,6 +95,7 @@ Building practical software, learning modern technologies, and working toward be
 - Machine Learning Fundamentals
 - SQL & Database Design
 - Git & GitHub Workflow
+- Azure AI & Generative AI
 
 ---
 
@@ -78,7 +103,7 @@ Building practical software, learning modern technologies, and working toward be
 
 <p align="center">
   <a href="mailto:vanshbisht74@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 
   <a href="https://github.com/vanshbisht74-arch">
